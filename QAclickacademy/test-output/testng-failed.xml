@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="resources.Listner"/>
+    <listener class-name="resources.ExtentReport"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)" parallel="tests">
+    <classes>
+      <class name="testCases.HomePageCourseTest">
+        <methods>
+          <include name="Verifycoursetext"/>
+          <include name="closebrowser"/>
+          <include name="InitializeDriver"/>
+          <include name="Verifylinkworking"/>
+        </methods>
+      </class> <!-- testCases.HomePageCourseTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44480" started-at="2019-02-06T12:45:35Z" finished-at="2019-02-06T12:46:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="44480" started-at="2019-02-06T12:45:35Z" finished-at="2019-02-06T12:46:20Z">
+      <class name="testCases.HomePageCourseTest">
+        <test-method status="PASS" signature="InitializeDriver()[pri:0, instance:testCases.HomePageCourseTest@3e2e18f2]" name="InitializeDriver" is-config="true" duration-ms="18482" started-at="2019-02-06T12:45:35Z" finished-at="2019-02-06T12:45:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitializeDriver -->
+        <test-method status="PASS" signature="Verifycoursecount()[pri:1, instance:testCases.HomePageCourseTest@3e2e18f2]" name="Verifycoursecount" duration-ms="185" started-at="2019-02-06T12:45:54Z" finished-at="2019-02-06T12:45:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verifycoursecount -->
+        <test-method status="PASS" signature="Verifycoursetext()[pri:2, instance:testCases.HomePageCourseTest@3e2e18f2]" name="Verifycoursetext" duration-ms="1029" started-at="2019-02-06T12:45:54Z" finished-at="2019-02-06T12:45:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verifycoursetext -->
+        <test-method status="PASS" signature="Verifylinkworking()[pri:3, instance:testCases.HomePageCourseTest@3e2e18f2]" name="Verifylinkworking" duration-ms="13357" started-at="2019-02-06T12:45:55Z" finished-at="2019-02-06T12:46:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verifylinkworking -->
+        <test-method status="PASS" signature="Verifycoursesbutton()[pri:4, instance:testCases.HomePageCourseTest@3e2e18f2]" name="Verifycoursesbutton" duration-ms="6103" started-at="2019-02-06T12:46:08Z" finished-at="2019-02-06T12:46:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verifycoursesbutton -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:testCases.HomePageCourseTest@3e2e18f2]" name="closebrowser" is-config="true" duration-ms="5161" started-at="2019-02-06T12:46:15Z" finished-at="2019-02-06T12:46:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- testCases.HomePageCourseTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

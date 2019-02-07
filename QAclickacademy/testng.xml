@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+<listeners>
+<listener class-name="resources.Listner"/>
+<listener class-name="resources.ExtentReport"/>
+</listeners>
+<test thread-count="5" name="Test">
+    <classes>
+	   
+	    
+	    <class name="testCases.HomePageMenuTest"/>
+	    <class name="testCases.HomePageHeaderTest"/>
+	    <!-- 
+	    
+	     <class name="testCases.HomePageCourseTest"/>
+	     <class name="testCases.HomePagemarqueeTest"/>
+	    <class name="testCases.HomePagePopupSubscribeTest"/>
+	    <class name="testCases.HomePagePopupTest"/>
+	    <class name="testCases.HomePagestatictextTest"/> 
+	    <class name="testCases.HomePageFooterTest"/>-->
+   </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

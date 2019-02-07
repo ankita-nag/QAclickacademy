@@ -1,0 +1,10 @@
+17:55:45.357 [TestNG] INFO  resources.Base - Sucessfully click on contact menu and about menu color also matched to expected color
+17:55:46.027 [TestNG] INFO  resources.Base - Sucessfully click on about menu and about menu color also matched to expected color
+17:55:54.905 [TestNG] ERROR resources.Base - Unable click on blog menu and blog menu color does not match to expected color
+17:55:57.844 [TestNG] INFO  resources.Base - All browser closed
+18:33:20.249 [TestNG] INFO  resources.Base - Browser opened
+18:33:22.732 [TestNG] INFO  resources.Base - youtube window opened successfuly
+18:33:26.552 [TestNG] INFO  resources.Base - All browser closed
+18:33:37.397 [TestNG] INFO  resources.Base - Browser opened
+18:33:38.239 [TestNG] INFO  resources.Base - All menu are present
+18:33:41.357 [TestNG] INFO  resources.Base - Sucessfully click on home menu and home menu color also matched to expected color

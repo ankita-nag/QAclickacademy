@@ -1,0 +1,7 @@
+18:33:44.476 [TestNG] INFO  resources.Base - Sucessfully click on course menu and home menu color also matched to expected color
+18:33:46.424 [TestNG] INFO  resources.Base - Sucessfully click on videos menu and videos menu color also matched to expected color
+18:33:47.926 [TestNG] ERROR resources.Base - Unable click on Interviewguide menu and interviewguide menu color does not match to expected color
+18:33:49.009 [TestNG] INFO  resources.Base - Sucessfully click on contact menu and about menu color also matched to expected color
+18:33:49.777 [TestNG] INFO  resources.Base - Sucessfully click on about menu and about menu color also matched to expected color
+18:33:57.122 [TestNG] ERROR resources.Base - Unable click on blog menu and blog menu color does not match to expected color
+18:33:59.771 [TestNG] INFO  resources.Base - All browser closed
